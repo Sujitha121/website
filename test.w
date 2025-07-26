@@ -42,5 +42,6 @@
       <button type="submit">Send</button>
     </form>
     </section>
-
-  <footer>
+    <footer>
+    <p>&copy; 2025 Sujitha R</p>
+  </footer>

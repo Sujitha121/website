@@ -22,3 +22,5 @@
     <h2>About Me</h2>
     <p>I enjoy creating dynamic websites using HTML, CSS, and JavaScript. I also work with Python and Java for backend development and academic projects.</p>
   </section>
+  <section id="projects">
+    <h2>Projects</h2>

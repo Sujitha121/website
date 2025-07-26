@@ -41,3 +41,6 @@
       <textarea id="message" required></textarea>
       <button type="submit">Send</button>
     </form>
+    </section>
+
+  <footer>

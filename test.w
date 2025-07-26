@@ -18,4 +18,7 @@
     <h2>Hello, I’m Sujitha</h2>
     <p>A passionate web developer and programmer.</p>
   </header>
-
+<section id="about">
+    <h2>About Me</h2>
+    <p>I enjoy creating dynamic websites using HTML, CSS, and JavaScript. I also work with Python and Java for backend development and academic projects.</p>
+  </section>

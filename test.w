@@ -32,3 +32,7 @@
 
   <section id="contact">
     <h2>Contact</h2>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" required>
+      <label for="email">Email:</label>

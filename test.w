@@ -45,3 +45,4 @@
     <footer>
     <p>&copy; 2025 Sujitha R</p>
   </footer>
+  </body>

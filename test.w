@@ -28,3 +28,7 @@
       <li><strong>Online Bookstore</strong> – A dynamic website for browsing and ordering books.</li>
       <li><strong>Student Management System</strong> – A Java-based application to manage student records.</li>
     </ul>
+    </section>
+
+  <section id="contact">
+    <h2>Contact</h2>

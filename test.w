@@ -24,3 +24,7 @@
   </section>
   <section id="projects">
     <h2>Projects</h2>
+    <ul>
+      <li><strong>Online Bookstore</strong> – A dynamic website for browsing and ordering books.</li>
+      <li><strong>Student Management System</strong> – A Java-based application to manage student records.</li>
+    </ul>

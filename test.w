@@ -7,3 +7,6 @@
   </head>
 <body>
   <nav>
+  <h1>My Portfolio</h1>
+    <ul>
+      <li><a href="#about">About</a></li>

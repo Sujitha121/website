@@ -16,3 +16,6 @@
   </nav>
   <header>
     <h2>Hello, I’m Sujitha</h2>
+    <p>A passionate web developer and programmer.</p>
+  </header>
+
